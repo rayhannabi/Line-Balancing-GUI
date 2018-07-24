@@ -1,0 +1,19 @@
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Resources\LCR_DATA.txt
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Northwoods.Go.dll
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Northwoods.Go.Layout.dll
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Northwoods.Go.Xml.DLL
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.FormDataEntry.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.FormDiagram.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.FormMain.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.FormOutput.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.Properties.Resources.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.WorkStationView.resources
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line Balancing GUI.csproj.GenerateResource.Cache
+C:\Users\Rayhan\documents\visual studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line Balancing GUI.csprojResolveAssemblyReference.cache
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\GraphLibrary.dll
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\GraphLibrary.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line_Balancing_GUI.FormCompare.resources
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Line Balancing Analyzer.exe
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\bin\Debug\Line Balancing Analyzer.pdb
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line Balancing Analyzer.exe
+C:\Users\Rayhan\Documents\Visual Studio 2017\Projects\Line Balancing GUI\Line Balancing GUI\obj\Debug\Line Balancing Analyzer.pdb
